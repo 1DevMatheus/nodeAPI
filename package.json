@@ -23,7 +23,7 @@
     "cors": "^2.8.5",
     "express": "^4.18.2",
     "mongodb": "^5.7.0",
-    "moongose": "6.10.1",
+    "moongose": "^5.6.10",
     "nodemon": "^3.0.1"
   }
 }
