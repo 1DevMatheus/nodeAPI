@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/1DevMatheus/RickAndMorty-project/tree/backend#readme",
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^4.18.2",
-    "mongodb": "^5.7.0",
+    "cors": "",
+    "express": "",
+    "mongodb": "",
     "moongose": "",
-    "nodemon": "^3.0.1"
+    "nodemon": ""
   }
 }
