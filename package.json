@@ -22,7 +22,6 @@
   "dependencies": {
     "cors": "",
     "express": "",
-    "mongodb": "",
     "moongose": "",
     "nodemon": ""
   }
